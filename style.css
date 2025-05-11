@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#art-container {
+    margin-top: 20px;
+}
+
+#art-description {
+    font-size: 18px;
+    color: #333;
+}
